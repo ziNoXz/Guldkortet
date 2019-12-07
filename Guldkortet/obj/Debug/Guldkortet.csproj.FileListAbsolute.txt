@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\bin\Debug\Guldkortet.exe.config
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\bin\Debug\Guldkortet.exe
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\bin\Debug\Guldkortet.pdb
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.Form1.resources
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.Properties.Resources.resources
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.exe
+C:\Users\Chris\source\repos\Guldkortet\Guldkortet\obj\Debug\Guldkortet.pdb
